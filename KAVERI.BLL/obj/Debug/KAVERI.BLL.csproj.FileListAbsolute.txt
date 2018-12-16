@@ -1,0 +1,9 @@
+C:\Users\Vijayakumar.B\Desktop\Kaveri Mandya\KAVERI.BLL\bin\Debug\KAVERI.BLL.dll
+C:\Users\Vijayakumar.B\Desktop\Kaveri Mandya\KAVERI.BLL\bin\Debug\KAVERI.BLL.pdb
+C:\Users\Vijayakumar.B\Desktop\Kaveri Mandya\KAVERI.BLL\bin\Debug\KAVERI.DAL.dll
+C:\Users\Vijayakumar.B\Desktop\Kaveri Mandya\KAVERI.BLL\bin\Debug\KAVERI.DO.dll
+C:\Users\Vijayakumar.B\Desktop\Kaveri Mandya\KAVERI.BLL\bin\Debug\KAVERI.UTILITY.dll
+C:\Users\Vijayakumar.B\Desktop\Kaveri Mandya\KAVERI.BLL\bin\Debug\KAVERI.UTILITY.pdb
+C:\Users\Vijayakumar.B\Desktop\Kaveri Mandya\KAVERI.BLL\obj\Debug\KAVERI.BLL.dll
+C:\Users\Vijayakumar.B\Desktop\Kaveri Mandya\KAVERI.BLL\obj\Debug\KAVERI.BLL.pdb
+C:\Users\Vijayakumar.B\Desktop\Kaveri Mandya\KAVERI.BLL\obj\Debug\KAVERI.BLL.csprojResolveAssemblyReference.cache

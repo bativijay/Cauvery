@@ -1,0 +1,34 @@
+C:\Users\Vijayakumar.B\Desktop\Kaveri Mandya\KAVERI.BLL\bin\x86\Debug\KAVERI.BLL.dll
+C:\Users\Vijayakumar.B\Desktop\Kaveri Mandya\KAVERI.BLL\bin\x86\Debug\KAVERI.BLL.pdb
+C:\Users\Vijayakumar.B\Desktop\Kaveri Mandya\KAVERI.BLL\bin\x86\Debug\KAVERI.DAL.dll
+C:\Users\Vijayakumar.B\Desktop\Kaveri Mandya\KAVERI.BLL\bin\x86\Debug\KAVERI.DO.dll
+C:\Users\Vijayakumar.B\Desktop\Kaveri Mandya\KAVERI.BLL\bin\x86\Debug\KAVERI.UTILITY.dll
+C:\Users\Vijayakumar.B\Desktop\Kaveri Mandya\KAVERI.BLL\bin\x86\Debug\KAVERI.UTILITY.pdb
+C:\Users\Vijayakumar.B\Desktop\Kaveri Mandya\KAVERI.BLL\obj\x86\Debug\KAVERI.BLL.dll
+C:\Users\Vijayakumar.B\Desktop\Kaveri Mandya\KAVERI.BLL\obj\x86\Debug\KAVERI.BLL.pdb
+C:\Users\Vijayakumar.B\Desktop\Kaveri Mandya\KAVERI.BLL\obj\x86\Debug\KAVERI.BLL.csprojResolveAssemblyReference.cache
+D:\Kaveri\Kaveri Mandya\KAVERI.BLL\bin\x86\Debug\KAVERI.BLL.dll
+D:\Kaveri\Kaveri Mandya\KAVERI.BLL\bin\x86\Debug\KAVERI.BLL.pdb
+D:\Kaveri\Kaveri Mandya\KAVERI.BLL\bin\x86\Debug\KAVERI.DAL.dll
+D:\Kaveri\Kaveri Mandya\KAVERI.BLL\bin\x86\Debug\KAVERI.DO.dll
+D:\Kaveri\Kaveri Mandya\KAVERI.BLL\bin\x86\Debug\KAVERI.UTILITY.dll
+D:\Kaveri\Kaveri Mandya\KAVERI.BLL\bin\x86\Debug\KAVERI.UTILITY.pdb
+D:\Kaveri\Kaveri Mandya\KAVERI.BLL\obj\x86\Debug\KAVERI.BLL.csprojResolveAssemblyReference.cache
+D:\Kaveri\Kaveri Mandya\KAVERI.BLL\obj\x86\Debug\KAVERI.BLL.dll
+D:\Kaveri\Kaveri Mandya\KAVERI.BLL\obj\x86\Debug\KAVERI.BLL.pdb
+D:\Personal\Kaveri\KAVERI.BLL\bin\x86\Debug\KAVERI.BLL.dll
+D:\Personal\Kaveri\KAVERI.BLL\bin\x86\Debug\KAVERI.BLL.pdb
+D:\Personal\Kaveri\KAVERI.BLL\bin\x86\Debug\KAVERI.DAL.dll
+D:\Personal\Kaveri\KAVERI.BLL\bin\x86\Debug\KAVERI.DO.dll
+D:\Personal\Kaveri\KAVERI.BLL\bin\x86\Debug\KAVERI.UTILITY.dll
+D:\Personal\Kaveri\KAVERI.BLL\bin\x86\Debug\KAVERI.UTILITY.pdb
+D:\Personal\Kaveri\KAVERI.BLL\obj\x86\Debug\KAVERI.BLL.csprojResolveAssemblyReference.cache
+D:\Personal\Kaveri\KAVERI.REFERENCES\KAVERI.BLL.dll
+D:\Personal\Kaveri\KAVERI.REFERENCES\KAVERI.BLL.pdb
+D:\Personal\Kaveri\KAVERI.BLL\obj\x86\Debug\KAVERI.BLL.dll
+D:\Personal\Kaveri\KAVERI.BLL\obj\x86\Debug\KAVERI.BLL.pdb
+D:\Sumadhwa\Source Code\Kaveri_Source_Code\KAVERI.BLL\obj\x86\Debug\KAVERI.BLL.csprojResolveAssemblyReference.cache
+D:\Sumadhwa\Source Code\Kaveri_Source_Code\KAVERI.REFERENCES\KAVERI.BLL.dll
+D:\Sumadhwa\Source Code\Kaveri_Source_Code\KAVERI.REFERENCES\KAVERI.BLL.pdb
+D:\Sumadhwa\Source Code\Kaveri_Source_Code\KAVERI.BLL\obj\x86\Debug\KAVERI.BLL.dll
+D:\Sumadhwa\Source Code\Kaveri_Source_Code\KAVERI.BLL\obj\x86\Debug\KAVERI.BLL.pdb

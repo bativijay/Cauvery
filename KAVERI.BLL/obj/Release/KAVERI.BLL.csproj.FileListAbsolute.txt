@@ -1,0 +1,11 @@
+D:\Personal\Kaveri\KAVERI.BLL\bin\Release\KAVERI.BLL.dll
+D:\Personal\Kaveri\KAVERI.BLL\bin\Release\KAVERI.BLL.pdb
+D:\Personal\Kaveri\KAVERI.BLL\bin\Release\KAVERI.DAL.dll
+D:\Personal\Kaveri\KAVERI.BLL\bin\Release\KAVERI.DO.dll
+D:\Personal\Kaveri\KAVERI.BLL\obj\Release\KAVERI.BLL.csprojResolveAssemblyReference.cache
+D:\Personal\Kaveri\KAVERI.BLL\obj\Release\KAVERI.BLL.dll
+D:\Personal\Kaveri\KAVERI.BLL\obj\Release\KAVERI.BLL.pdb
+D:\Personal\Kaveri\KAVERI.BLL\bin\Release\KAVERI.DAL.pdb
+D:\Personal\Kaveri\KAVERI.BLL\bin\Release\KAVERI.DO.pdb
+D:\Personal\Kaveri\KAVERI.BLL\bin\Release\KAVERI.UTILITY.dll
+D:\Personal\Kaveri\KAVERI.BLL\bin\Release\KAVERI.UTILITY.pdb
