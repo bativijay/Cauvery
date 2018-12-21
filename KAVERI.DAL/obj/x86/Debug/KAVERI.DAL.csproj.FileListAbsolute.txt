@@ -1,0 +1,25 @@
+C:\Users\Vijayakumar.B\Desktop\Kaveri Mandya\KAVERI.DAL\bin\x86\Debug\KAVERI.DAL.dll
+C:\Users\Vijayakumar.B\Desktop\Kaveri Mandya\KAVERI.DAL\bin\x86\Debug\KAVERI.DAL.pdb
+C:\Users\Vijayakumar.B\Desktop\Kaveri Mandya\KAVERI.DAL\bin\x86\Debug\KAVERI.DO.dll
+C:\Users\Vijayakumar.B\Desktop\Kaveri Mandya\KAVERI.DAL\obj\x86\Debug\KAVERI.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Vijayakumar.B\Desktop\Kaveri Mandya\KAVERI.DAL\obj\x86\Debug\KAVERI.DAL.dll
+C:\Users\Vijayakumar.B\Desktop\Kaveri Mandya\KAVERI.DAL\obj\x86\Debug\KAVERI.DAL.pdb
+D:\Kaveri\Kaveri Mandya\KAVERI.DAL\bin\x86\Debug\KAVERI.DAL.dll
+D:\Kaveri\Kaveri Mandya\KAVERI.DAL\bin\x86\Debug\KAVERI.DAL.pdb
+D:\Kaveri\Kaveri Mandya\KAVERI.DAL\bin\x86\Debug\KAVERI.DO.dll
+D:\Kaveri\Kaveri Mandya\KAVERI.DAL\obj\x86\Debug\KAVERI.DAL.csprojResolveAssemblyReference.cache
+D:\Kaveri\Kaveri Mandya\KAVERI.DAL\obj\x86\Debug\KAVERI.DAL.dll
+D:\Kaveri\Kaveri Mandya\KAVERI.DAL\obj\x86\Debug\KAVERI.DAL.pdb
+D:\Personal\Kaveri\KAVERI.DAL\bin\x86\Debug\KAVERI.DAL.dll
+D:\Personal\Kaveri\KAVERI.DAL\bin\x86\Debug\KAVERI.DAL.pdb
+D:\Personal\Kaveri\KAVERI.DAL\bin\x86\Debug\KAVERI.DO.dll
+D:\Personal\Kaveri\KAVERI.DAL\obj\x86\Debug\KAVERI.DAL.csprojResolveAssemblyReference.cache
+D:\Personal\Kaveri\KAVERI.REFERENCES\KAVERI.DAL.dll
+D:\Personal\Kaveri\KAVERI.REFERENCES\KAVERI.DAL.pdb
+D:\Personal\Kaveri\KAVERI.DAL\obj\x86\Debug\KAVERI.DAL.dll
+D:\Personal\Kaveri\KAVERI.DAL\obj\x86\Debug\KAVERI.DAL.pdb
+D:\Sumadhwa\Source Code\Kaveri_Source_Code\KAVERI.DAL\obj\x86\Debug\KAVERI.DAL.csprojResolveAssemblyReference.cache
+D:\Sumadhwa\Source Code\Kaveri_Source_Code\KAVERI.REFERENCES\KAVERI.DAL.dll
+D:\Sumadhwa\Source Code\Kaveri_Source_Code\KAVERI.REFERENCES\KAVERI.DAL.pdb
+D:\Sumadhwa\Source Code\Kaveri_Source_Code\KAVERI.DAL\obj\x86\Debug\KAVERI.DAL.dll
+D:\Sumadhwa\Source Code\Kaveri_Source_Code\KAVERI.DAL\obj\x86\Debug\KAVERI.DAL.pdb

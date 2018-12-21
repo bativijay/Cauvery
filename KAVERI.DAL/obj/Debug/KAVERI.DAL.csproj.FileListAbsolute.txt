@@ -1,0 +1,6 @@
+C:\Users\Vijayakumar.B\Desktop\Kaveri Mandya\KAVERI.DAL\bin\Debug\KAVERI.DAL.dll
+C:\Users\Vijayakumar.B\Desktop\Kaveri Mandya\KAVERI.DAL\bin\Debug\KAVERI.DAL.pdb
+C:\Users\Vijayakumar.B\Desktop\Kaveri Mandya\KAVERI.DAL\bin\Debug\KAVERI.DO.dll
+C:\Users\Vijayakumar.B\Desktop\Kaveri Mandya\KAVERI.DAL\obj\Debug\KAVERI.DAL.dll
+C:\Users\Vijayakumar.B\Desktop\Kaveri Mandya\KAVERI.DAL\obj\Debug\KAVERI.DAL.pdb
+C:\Users\Vijayakumar.B\Desktop\Kaveri Mandya\KAVERI.DAL\obj\Debug\KAVERI.DAL.csprojResolveAssemblyReference.cache
