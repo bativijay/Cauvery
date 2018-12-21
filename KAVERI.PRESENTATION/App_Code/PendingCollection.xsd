@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="PendingCollection" targetNamespace="http://tempuri.org/PendingCollection.xsd" xmlns:mstns="http://tempuri.org/PendingCollection.xsd" xmlns="http://tempuri.org/PendingCollection.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="PendingCollection" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="PendingCollection" msprop:Generator_DataSetName="PendingCollection">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DtCollection" msprop:Generator_UserTableName="DtCollection" msprop:Generator_RowDeletedName="DtCollectionRowDeleted" msprop:Generator_RowChangedName="DtCollectionRowChanged" msprop:Generator_RowClassName="DtCollectionRow" msprop:Generator_RowChangingName="DtCollectionRowChanging" msprop:Generator_RowEvArgName="DtCollectionRowChangeEvent" msprop:Generator_RowEvHandlerName="DtCollectionRowChangeEventHandler" msprop:Generator_TableClassName="DtCollectionDataTable" msprop:Generator_TableVarName="tableDtCollection" msprop:Generator_RowDeletingName="DtCollectionRowDeleting" msprop:Generator_TablePropName="DtCollection">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="SrNo" msprop:Generator_UserColumnName="SrNo" msprop:Generator_ColumnVarNameInTable="columnSrNo" msprop:Generator_ColumnPropNameInRow="SrNo" msprop:Generator_ColumnPropNameInTable="SrNoColumn" type="xs:long" />
+              <xs:element name="StudentName" msdata:Caption="DataColumn1" msprop:Generator_UserColumnName="StudentName" msprop:Generator_ColumnVarNameInTable="columnStudentName" msprop:Generator_ColumnPropNameInRow="StudentName" msprop:Generator_ColumnPropNameInTable="StudentNameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="FatherName" msdata:Caption="DataColumn1" msprop:Generator_UserColumnName="FatherName" msprop:Generator_ColumnVarNameInTable="columnFatherName" msprop:Generator_ColumnPropNameInRow="FatherName" msprop:Generator_ColumnPropNameInTable="FatherNameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="AdmissionNo" msdata:Caption="DataColumn1" msprop:Generator_UserColumnName="AdmissionNo" msprop:Generator_ColumnVarNameInTable="columnAdmissionNo" msprop:Generator_ColumnPropNameInRow="AdmissionNo" msprop:Generator_ColumnPropNameInTable="AdmissionNoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="FeeName" msdata:Caption="DataColumn1" msprop:Generator_UserColumnName="FeeName" msprop:Generator_ColumnVarNameInTable="columnFeeName" msprop:Generator_ColumnPropNameInRow="FeeName" msprop:Generator_ColumnPropNameInTable="FeeNameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Amount" msdata:Caption="DataColumn1" msprop:Generator_UserColumnName="Amount" msprop:Generator_ColumnVarNameInTable="columnAmount" msprop:Generator_ColumnPropNameInRow="Amount" msprop:Generator_ColumnPropNameInTable="AmountColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="PaidAmount" msdata:Caption="DataColumn1" msprop:Generator_UserColumnName="PaidAmount" msprop:Generator_ColumnVarNameInTable="columnPaidAmount" msprop:Generator_ColumnPropNameInRow="PaidAmount" msprop:Generator_ColumnPropNameInTable="PaidAmountColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="PendingAmount" msprop:Generator_UserColumnName="PendingAmount" msprop:Generator_ColumnVarNameInTable="columnPendingAmount" msprop:Generator_ColumnPropNameInRow="PendingAmount" msprop:Generator_ColumnPropNameInTable="PendingAmountColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="StandardName" msprop:Generator_UserColumnName="StandardName" msprop:Generator_ColumnPropNameInRow="StandardName" msprop:Generator_ColumnVarNameInTable="columnStandardName" msprop:Generator_ColumnPropNameInTable="StandardNameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="AcademicYear" msprop:Generator_UserColumnName="AcademicYear" msprop:Generator_ColumnPropNameInRow="AcademicYear" msprop:Generator_ColumnVarNameInTable="columnAcademicYear" msprop:Generator_ColumnPropNameInTable="AcademicYearColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:DtCollection" />
+      <xs:field xpath="mstns:SrNo" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>
