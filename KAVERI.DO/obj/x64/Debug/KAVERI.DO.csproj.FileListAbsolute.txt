@@ -1,0 +1,4 @@
+C:\Users\Vijayakumar.B\Desktop\Kaveri Mandya\KAVERI.DO\bin\x64\Debug\KAVERI.DO.dll
+C:\Users\Vijayakumar.B\Desktop\Kaveri Mandya\KAVERI.DO\bin\x64\Debug\KAVERI.DO.pdb
+C:\Users\Vijayakumar.B\Desktop\Kaveri Mandya\KAVERI.DO\obj\x64\Debug\KAVERI.DO.dll
+C:\Users\Vijayakumar.B\Desktop\Kaveri Mandya\KAVERI.DO\obj\x64\Debug\KAVERI.DO.pdb
