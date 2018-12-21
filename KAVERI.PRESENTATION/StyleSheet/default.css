@@ -1,0 +1,538 @@
+/* CSS Document */
+
+/* ----------------------------------------------------- */
+/* LAYOUT & THEME */
+/* ----------------------------------------------------- */
+
+body
+{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px; /*background:url(../images/background.jpg) center top repeat-y #9A0000;*/
+}
+
+#wrapper
+{
+	width: 980px;
+	margin: 0 auto;
+	background: url(../images/bg_body.jpg) repeat-x;
+	display: table;
+}
+
+/* HEADER ----------------------------------------------------- */
+
+.header
+{
+	background: url(../images/background_header.jpg) repeat-x;
+}
+
+
+/* GLOBAL LINKS ----------------------------------------------------- */
+
+#g-nav
+{
+	position: relative;
+	height: 43px;
+	text-transform: uppercase;
+	background: #fff url("../images/time4bed_bg.gif") repeat-x bottom left;
+}
+
+#g-nav ul
+{
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	width: auto;
+	float: left;
+}
+
+#g-nav ul li
+{
+	display: block;
+	float: left;
+	margin: 0 2px;
+}
+#g-nav ul li a
+{
+	display: block;
+	float: left;
+	color: #ffdab6;
+	text-decoration: none;
+	padding: 0 0 0 25px;
+	height: 43px;
+	line-height: 50px;
+}
+
+#g-nav ul li a span
+{
+	display: block;
+	float: left;
+	padding: 0 25px 0 0;
+	height: 31px;
+	width: auto;
+}
+
+#g-nav ul li a:hover
+{
+	color: #fff;
+}
+
+#g-nav ul li a:hover span
+{
+	display: block;
+	
+}
+
+#g-nav ul li a.current, #g-nav ul li a.current:hover
+{
+	color: #894d12;
+	background: transparent url("../images/time2bed_left-ON.gif") no-repeat top left;
+}
+
+#g-nav ul li a.current span
+{
+	background: transparent url("../images/time2bed_right-ON.gif") no-repeat top right;
+	height: 43px;
+}
+
+/* CONTENT ----------------------------------------------------- */
+
+.main_table
+{
+}
+
+.content
+{
+	background: #fff url("../images/bg_body.gif") repeat-x top;
+	padding: 10px 0 0 1px;
+}
+
+.boxmain
+{
+	border: 1px solid #d7d7d7;
+	border-top: none;
+	height: 170px;
+	font-family: "Verdana";
+	font-size: 11px;
+}
+.boxlink
+{
+	border: 1px solid #d7d7d7;
+	border-top: none;
+	padding: 5px;
+}
+
+.boxmain ul
+{
+	line-height: 21px;
+	padding-left: 23px;
+	font-family: "Verdana";
+	font-weight: bold;
+}
+.boxmain ul li
+{
+	list-style-image: url(../images/bullet_01.gif);
+}
+.boxmain p
+{
+	text-transform: uppercase;
+	font-size: 11px;
+	font-weight: bold;
+	padding: 3px 5px 0px 5px;
+}
+
+
+/* FOOTER ----------------------------------------------------- */
+
+.footer
+{
+	font-family: "Verdana";
+	height: 30px;
+	font-size: 12px;
+	clear: both;
+	text-align: center;
+	color: #666;
+	border-top: 4px solid #d7d7d7;
+	margin-top: 0px;
+}
+
+
+/* ----------------------------------------------------- */
+/* GLOBAL STYLES
+/* ----------------------------------------------------- */
+
+h1
+{
+	font-size: 22px;
+	font-weight: normal;
+	color: #000;
+	margin: 0 5px 5px 5px;
+	border-bottom: 2px solid #D8D9DA;
+	padding-top: 10px;
+}
+
+h2
+{
+	font-size: 16px;
+	color: #000;
+	padding: 3px;
+	border-top: 3px solid #CCC;
+	margin: 0 0 3px 0;
+}
+
+h3
+{
+	font-size: 16px;
+	color: #000;
+	padding: 3px;
+	margin: 0 0 3px 0;
+}
+
+p
+{
+	padding-bottom: 10px;
+	margin: 0;
+	line-height: 22px;
+	height: 408px;
+	width: 680px;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 5px;
+}
+
+a:link
+{
+	color: #000099;
+}
+a:hover
+{
+	color: #1977D7;
+}
+
+form, ul, ol, li
+{
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+
+input, textarea
+{
+	font-family: Verdana,  Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	border: 1px solid #aaa;
+	padding: 2px;
+		margin-left: 2px;
+	width: 45px;
+}
+label
+{
+	padding: 2px;
+}
+
+.smalltext
+{
+	color: #999999;
+	font-size: 11px;
+}
+
+.tablehdr
+{
+	height: 24px;
+	font-size: 13px;
+	font-weight: bold;
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	clear: both;
+	text-align: Left;
+	background-color: #F1F1F1;
+	color: #780606; /*background-image: url("../images/extra-big-content-curve.jpg") no-repeat top left  ; */
+}
+
+.tblDisc
+{
+	/*color: #780606;  */
+	color:Black;
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+.tdhdr
+{
+	height: 24px;
+	font-size: 13px;
+	font-weight: bold;
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	clear: both;
+	text-align: Left;
+	background-color: #D7D7D7;
+	color: #780606;
+}
+
+.inf
+{
+	text-align: left;
+	font-family: Verdana;
+}
+.tc
+{
+	text-align: left;
+	font-family: Verdana;
+	font-size: 10pt;
+}
+.Button
+{
+	padding: 2px 2px 2px 2px;
+	background-color: #BB0D0D;
+	color: White;
+	border-width: 0px;
+	font-weight: bold;
+	
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+}
+.ButtonMenu
+{
+	padding: 2px 2px 2px 2px;
+	background-color: #BB0D0D;
+	color: White;
+	border-width: 0px;
+	font-weight: bold;
+	
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+}
+.textboxupper
+{
+	text-transform: uppercase;
+	height: 23px;
+}
+.TextBox
+{
+	height: 16px;
+	width: 150px;
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+}
+.atextbox
+{
+	height: 23px;
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	margin-left: 0px;
+}
+
+.NumericTextBox
+{
+	height: 23px;
+	text-align: right;
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+}
+
+.MultylineTextBox
+{
+	height: 45px;
+	width: 150px;
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+}
+.DropDownList
+{
+	background-color: #FFFFFF;
+	color: black;
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	width: 135px;
+}
+.Label
+{
+	width: 150px;
+	font-family: Verdana;
+	font-size: 10pt;
+	color: black;
+}
+.LabelBold
+{
+	width: 150px;
+	font-family: Verdana;
+	font-size: 10pt;
+	color: White;
+	font-weight :bold;
+}
+.LabelSmall
+{
+	
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: black;
+}
+.LabelMedium
+{
+	
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: black;
+}
+
+.LabelQuote
+{
+	
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: black;
+}
+.LabelSmallBold
+{
+	width: 150px;
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 10.5px;
+	font-weight :bold;
+	color: black;
+}
+.LabelOffer
+{
+	
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: black;
+}
+
+.LabelMenu
+{
+	
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: black;
+}
+
+.ListBox
+{
+	width: 150px;
+	color: black;
+	background-color: #FFFFFF;
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+}
+
+/* Grid */
+.GridTitle
+{
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	text-decoration: none;
+	font-weight: bold;
+	color: #333333;
+	background-color: #FFFFD0;
+	height: 20px;
+}
+.HeaderStyle
+{
+	background-color: #BB0D0D;
+	font-weight: bold;
+	font-size: 11px;
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	color: White;
+	height: 20px;
+}
+.RowStyle
+{
+	background-color: #FCFCFA;
+	font-size: 12px;
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	height: 20px;
+	color: #333333;
+	text-align: left;
+	padding-left: 2px;
+}
+.AlternatingRowStyle
+{
+	background-color: #F8F3EB;
+	font-size: 12px;
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	height: 20px;
+	text-align: left;
+	padding-left: 2px;
+}
+.MatrixRowStyle
+{
+	background-color: #FCFCFA;
+	font-size: 12px;
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	height: 20px;
+	color: #333333;
+	text-align: left;
+	padding-left: 2px;
+}
+.MatrixAlternatingRowStyle
+{
+	background-color: #F8F3EB;
+	font-size: 12px;
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	height: 20px;
+	text-align: left;
+	padding-left: 2px;
+}
+
+.PagerStyle
+{
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	font-weight: bold;
+	color: White;
+	text-align: center;
+}
+
+.treeview a
+{
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 11pt;
+	color: #780606;
+}
+.treeview a:hover
+{
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 11pt;
+	color: #1977D7;
+}
+.HomePageClickHere
+{
+	font-family: Verdana, Tahoma, Arial, Sans-Serif;
+	font-size: 9pt;
+}
+.HomePageSpecialBoxContent
+{
+	font-family: Verdana, Tahoma, Arial, Sans-Serif;
+	font-size: 9pt;
+	color: Black;
+}
+.OptionButtonList
+{
+	font-size: 10px;
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	height: 60px;
+	color: #333333;
+	text-align: left;
+	vertical-align: middle;
+}
+.Links
+{
+	font-family: Verdana, Tahoma, Arial, Sans-Serif;
+	font-size: 11px;
+	color: Black;
+}
+
+.Protolink
+{
+	font-family: Verdana, Tahoma, Arial, Sans-Serif;
+	font-size: 13px;
+	color: #000099;
+}
+
+.bgHome
+{
+	width: 980px;
+	margin: 0 auto;
+	background: url(../images/bd.gif) repeat-x;
+	display: table;
+}
