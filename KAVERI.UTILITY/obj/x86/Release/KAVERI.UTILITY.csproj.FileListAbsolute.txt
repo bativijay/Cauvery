@@ -1,0 +1,5 @@
+D:\Personal\Kaveri\KAVERI.UTILITY\bin\x86\Release\KAVERI.UTILITY.dll
+D:\Personal\Kaveri\KAVERI.UTILITY\bin\x86\Release\KAVERI.UTILITY.pdb
+D:\Personal\Kaveri\KAVERI.UTILITY\obj\x86\Release\KAVERI.UTILITY.csprojResolveAssemblyReference.cache
+D:\Personal\Kaveri\KAVERI.UTILITY\obj\x86\Release\KAVERI.UTILITY.dll
+D:\Personal\Kaveri\KAVERI.UTILITY\obj\x86\Release\KAVERI.UTILITY.pdb

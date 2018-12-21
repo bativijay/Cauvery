@@ -1,0 +1,4 @@
+C:\Users\Vijayakumar.B\Desktop\Kaveri Mandya\KAVERI.UTILITY\bin\Debug\KAVERI.UTILITY.dll
+C:\Users\Vijayakumar.B\Desktop\Kaveri Mandya\KAVERI.UTILITY\bin\Debug\KAVERI.UTILITY.pdb
+C:\Users\Vijayakumar.B\Desktop\Kaveri Mandya\KAVERI.UTILITY\obj\Debug\KAVERI.UTILITY.dll
+C:\Users\Vijayakumar.B\Desktop\Kaveri Mandya\KAVERI.UTILITY\obj\Debug\KAVERI.UTILITY.pdb
