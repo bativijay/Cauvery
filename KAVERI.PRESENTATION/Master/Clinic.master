@@ -1,0 +1,58 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Clinic.master.cs" Inherits="Master_Clinic" %>
+
+<%@ Register Src="~/User Control/Footer.ascx" TagName="footer" TagPrefix="ucfoot" %>
+<%@ Register Src="~/User Control/Header.ascx" TagName="header" TagPrefix="uchead" %>
+<%@ Register Src="~/User Control/LeftMenu.ascx" TagName="leftcontrol" TagPrefix="ucleftmenu" %>
+<%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="cc1" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title>Untitled Page</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .style2
+        {
+            width: 100%;
+        }
+        #form1
+        {
+            margin-bottom: 19px;
+        }
+    </style>
+    <link href="../stylesheet/default.css" rel="Stylesheet" type="text/css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+    <asp:ScriptManager ID="Sm" runat="server">
+    </asp:ScriptManager>
+    <asp:UpdatePanel ID="u1" runat="server" UpdateMode="Always">
+        <ContentTemplate>
+            <div>
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    <uchead:header ID="hdrcontrol" runat="server" />
+                </asp:ContentPlaceHolder>
+            </div>
+            <table width="100%" border="0">
+                <tr>
+                    <td valign="top">
+                        <asp:ContentPlaceHolder ID="foot1" runat="server">
+                            <ucleftmenu:leftcontrol ID="leftmenucontrol" runat="server" />
+                        </asp:ContentPlaceHolder>
+                    </td>
+                    <td valign="top" style="width: 100%">
+                        <asp:ContentPlaceHolder ID="maincontent" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </td>
+                </tr>
+            </table>
+            <div>
+                <asp:ContentPlaceHolder ID="foot" runat="server">
+                    <ucfoot:footer ID="footer1" runat="server" />
+                </asp:ContentPlaceHolder>
+            </div>
+        </ContentTemplate>
+    </asp:UpdatePanel>
+    </form>
+</body>
+</html>

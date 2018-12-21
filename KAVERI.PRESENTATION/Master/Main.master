@@ -1,0 +1,105 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Main.master.cs" Inherits="Master_Main" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <style type="text/css">
+        .rich-panelbar
+        {
+            margin-top: 20px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .rich-table
+        {
+            margin-top: 5px;
+            margin-left: 4px;
+            margin-right: auto;
+        }
+        .rich-panel
+        {
+            margin-top: 5px;
+            margin-left: 4px;
+            margin-right: 4px;
+        }
+        .a4j-status
+        {
+            color: #CC0033;
+        }
+        .rich-messages
+        {
+            background-color: #ebf3fd;
+            margin-top: 5px;
+            margin-left: 272px;
+            width: 79.2%;
+            padding: 10px;
+            border: thin solid #99CCFF;
+            line-height: 10px;
+            z-index: 100000;
+            position: absolute;
+            cursor: pointer;
+        }
+        .rich-messages-marker img
+        {
+            padding-right: 7px;
+        }
+        .rich-table-footer
+        {
+            background-color: #e9eef2;
+        }
+        .toolbar-menu
+        {
+            color: white;
+        }
+        .toolbar-select
+        {
+            color: black;
+        }
+        #content
+        {
+            width: 79.8%;
+            height: 100%;
+            float: left; /*	background-color: #eeeeFF;
+*/
+            overflow: auto;
+        }
+        #webcam, #canvas
+        {
+            width: 320px;
+            border: 20px solid #333;
+            background: #eee;
+            -webkit-border-radius: 20px;
+            -moz-border-radius: 20px;
+            border-radius: 20px;
+        }
+        #webcam
+        {
+            position: relative;
+            margin-top: 50px;
+            margin-bottom: 50px;
+        }
+        .ui-layout-west, /* has Accordion */ .ui-layout-east, /* has content-div ... */ .ui-layout-east
+        {
+            /* content-div has Accordion */
+            padding: 0;
+            overflow: hidden;
+        }
+        .ui-layout-center P.ui-layout-content
+        {
+            line-height: 1.4em;
+            margin: 0;
+        }
+    </style>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <asp:ContentPlaceHolder ID="maincontent" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>
